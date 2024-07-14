@@ -26,7 +26,7 @@ elif options == "About Me":
     I am a Computer Vision enthusiast with a passion for developing and applying machine learning models to solve real-world problems. 
     I have completed coursework in various aspects of computer vision and have hands-on experience with several projects.
     """)
-    st.image(["img1.jpg","img2.jpg","img3.jpg"], width=325)
+    st.image(["img1.jpg","img2.JPG","img3.jpg"], width=325)
    
 # Projects section
 elif options == "Projects":
